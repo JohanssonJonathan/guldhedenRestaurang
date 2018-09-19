@@ -1,0 +1,24 @@
+[
+  {
+    "roomNr":1106,
+    "day":[],
+    "lunch":false,
+    "middag":false,
+    "vegetarisk":false,
+    "laktosfritt":false,
+    "mjolkfritt":false,
+    "glutenfritt":false
+  },
+  {
+    "roomNr":1107,
+    "day":[],
+    "lunch":false,
+    "middag":false,
+    "vegetarisk":false,
+    "laktosfritt":false,
+    "mjolkfritt":false,
+    "glutenfritt":false
+  }
+
+
+]
